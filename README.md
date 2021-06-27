@@ -125,7 +125,7 @@ f <- 4*i
 sum(h)+4*sum(i)
 ```
 
-**13. Calcular lo siguiente \[\sum_{i=1}^{25}\frac {2^i}{i} + \frac {3^i}{i^2}\]
+**13. Calcular lo siguiente \[\sum_{i=1}^{25}\frac {2^i}{i} + \frac {3^i}{i^2}\]**
 ```{vector}
 a <- 1:25
 b <- 2**a
